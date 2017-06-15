@@ -27,4 +27,25 @@ not sure
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area offers a place to temporarily place a file.
 
+How can you use the staging area to make sure you have one commit per logical change?
+git log to identify one commit per logic change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches help by not changing the original game and one can experiment on the game without committing changes to the original.
+
+How do the diagrams help you visualize the branch structure?
+This is like a file history of the diagram.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+One gets one master branch combined. To display when the master was branched and joined.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros of automatic merging one knows that there are no conflicts.
+cons of automatic merging not sure what the program picked.
+pros of manual merge one has control of what to chose.
+cons of manual merge extra work.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+In order to revert back to the last known state if needed.
+
 
