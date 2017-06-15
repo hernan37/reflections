@@ -29,3 +29,8 @@ When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     When one is adding a new feature to expriment with. This way the master is not changed untill one is certain these changes will be the new master.
+
+When would you want to use a remote repository rather than keeping all your work local?
+
+    When sharing or working with others on the same project.
+    
