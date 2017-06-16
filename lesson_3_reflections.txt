@@ -33,4 +33,10 @@ master?  What benefits does each approach have?
 When would you want to use a remote repository rather than keeping all your work local?
 
     When sharing or working with others on the same project.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+    So that one can keep track of what is going on locally with your project.
+
+
     
